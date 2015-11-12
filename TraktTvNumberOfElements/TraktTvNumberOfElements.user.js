@@ -4,7 +4,7 @@
 // @description Display the number of Shows on the progress page(s)
 // @include    http://trakt.tv/users/*/progress
 // @include    http://trakt.tv/users/*/progress**
-// @require  https://gist.github.com/raw/2625891/waitForKeyElements.js
+// @require  https://greasyfork.org/scripts/5392-waitforkeyelements/code/WaitForKeyElements.js?version=19641
 // @version     1.1
 // @grant       GM_addStyle
 // ==/UserScript==
